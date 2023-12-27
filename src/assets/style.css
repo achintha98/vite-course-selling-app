@@ -1,0 +1,38 @@
+.form-container {
+    width: 400px;
+    padding: 30px;
+}
+
+.outer-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #eeee;
+}
+
+.app-bar-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.sign-button {
+    margin-right: 10px;
+}
+
+.app-bar-btn-container {
+    display: flex;
+}
+
+.sign-up-form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.welcome-msg-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sign-up-text-feild {
+    margin-bottom: 10px;
+}
